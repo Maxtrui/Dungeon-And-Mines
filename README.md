@@ -5,3 +5,7 @@ This is our first project, which is based on a simple university assignment. We 
 
 Devs:
 @Maxtrui and @Kotonitro
+
+
+https://user-images.githubusercontent.com/109041501/187132499-549cb568-cf86-442a-825c-53ed1e819720.mp4
+
